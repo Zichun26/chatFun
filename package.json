@@ -1,0 +1,22 @@
+{
+  "name": "chatfun_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zichun26/chatFun.git"
+  },
+  "keywords": [
+    "ljm20031119"
+  ],
+  "author": "Zichun26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zichun26/chatFun/issues"
+  },
+  "homepage": "https://github.com/Zichun26/chatFun#readme"
+}
